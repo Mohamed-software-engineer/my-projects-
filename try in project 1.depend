@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1699330508 source:d:\desktop\code block\try in project 1\book.cpp
+	"Book.h"
+
+1699330184 d:\desktop\code block\try in project 1\book.h
+	<iostream>
+	<string.h>
+
+1699598732 source:d:\desktop\code block\try in project 1\booklist.cpp
+	"BookList.h"
+
+1699306437 d:\desktop\code block\try in project 1\booklist.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<windows.h>
+	"Book.h"
+	"DynamicArray.h"
+
+1699330184 d:\desktop\code block\try in project 1\dynamicarray.h
+	<iostream>
+	<stdexcept>
+	<string.h>
+
+1699330184 source:d:\desktop\code block\try in project 1\dynamicarray.cpp
+	"DynamicArray.h"
+	"Book.h"
+	"BookList.h"
+
+1699598611 source:d:\desktop\code block\try in project 1\main.cpp
+	<iostream>
+	"DynamicArray.h"
+	"Book.h"
+	"BookList.h"
+
